@@ -1,5 +1,4 @@
-name: Generate Podcast Feeds--v2
-on: [push]
+name: Generate Podcast Feeds
 jobs:
   build:
     runs-on: ubuntu-latest
